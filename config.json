@@ -1,0 +1,30 @@
+{
+  "applicationId": "1403486230158774284",
+  "refreshMinutes": 10,
+  "activities": [
+    {
+      "type": "PLAYING",
+      "name": "Roblox",
+      "applicationId": "1560622843547488367",
+      "startYearsAgo": 50,
+      "largeImageUrl": "https://s15.gifyu.com/images/bQBZt.png"
+    },
+    {
+      "type": "STREAMING",
+      "name": "Twitch",
+      "url": "https://twitch.tv/discord",
+      "details": "soza",
+      "state": "nothing is true",
+      "largeImageUrl": "https://s15.gifyu.com/images/bQAV8.gif"
+    }
+  ],
+  "customStatus": {
+    "texts": [
+      "s",
+      "o",
+      "z",
+      "a"
+    ],
+    "intervalSeconds": 5
+  }
+}

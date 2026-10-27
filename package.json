@@ -1,0 +1,12 @@
+{
+  "name": "streaming-status",
+  "version": "3.0.0",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "license": "ISC",
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.7.0",
+    "dotenv": "^16.4.5"
+  }
+}
